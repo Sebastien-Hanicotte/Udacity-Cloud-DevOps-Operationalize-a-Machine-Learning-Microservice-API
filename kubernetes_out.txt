@@ -1,0 +1,6 @@
+(base) ➜  project-ml-microservice-kubernetes git:(master) ✗./run_kubernetes.sh
+kubectl run --generator=deployment/apps.v1 is DEPRECATED and will be removed in a future version. Use kubectl run --generator=run-pod/v1 or kubectl create instead.
+deployment.apps/project5 created
+NAME                        READY   STATUS              RESTARTS   AGE
+project5-577b8797b4-69brg   0/1     ContainerCreating   0          0s
+service/project5 exposed
