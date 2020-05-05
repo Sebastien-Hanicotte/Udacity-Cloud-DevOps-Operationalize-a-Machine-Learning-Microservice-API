@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/Sebastien-Hanicotte/nd9991-ent-960224-project-611-smg-2.svg?style=svg)](https://circleci.com/gh/Sebastien-Hanicotte/nd9991-ent-960224-project-611-smg-2)
 
 ## Project Overview
 
